@@ -1,0 +1,14 @@
+body {
+background-color: blue;
+}
+
+h1,div {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    border-style: ridge;
+    border-color: fuchsia;
+    border-radius: 6px;
+}
